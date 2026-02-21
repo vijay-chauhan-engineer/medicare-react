@@ -5,7 +5,7 @@ import PrivateRoute from "./components/PrivateRoute";
 
 import Login from "./pages/Auth/Login";
 import Register from "./pages/Auth/Register";
-import Dashboard from "./pages/Dashboard";
+import Dashboard from "./pages/DashBoard";
 
 import DoctorsList from "./pages/Doctors/DoctorList";
 import BookAppointment from "./pages/Doctors/BookAppointment";
